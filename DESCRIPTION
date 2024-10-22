@@ -17,6 +17,4 @@ LazyData: true
 Sugggests:
     grImport2,
     rsvg
-VignetteBuilder: knitr
-Config/Needs/revdeps: revdepcheck
 Roxygen: list(markdown = TRUE)

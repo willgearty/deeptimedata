@@ -1,12 +1,14 @@
+# deeptimedata <img src="man/figures/logo.png" align="right" alt="" width="120">
+
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/deeptimedata)](https://CRAN.R-project.org/package=deeptimedata)
 [![R-CMD-check](https://github.com/willgearty/deeptimedata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/willgearty/deeptimedata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-# deeptimedata
+## Overview
 An R package to store data for the [deeptime](https://williamgearty.com/deeptime) package.
 
-# Citation
+## Citation
 
 If you use the `deeptime` and/or `deeptimedata` R packages in your work, please cite as:
 
