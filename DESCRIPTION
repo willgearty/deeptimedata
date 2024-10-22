@@ -9,12 +9,13 @@ Description: Geologic pattern data from <https://ngmdb.usgs.gov/fgdc_gds/geolsym
 URL: http://williamgearty.com/deeptimedata/,
     https://github.com/willgearty/deeptimedata
 BugReports: https://github.com/willgearty/deeptimedata/issues
-Depends: R (>= 3.4)
+Depends: R (>= 2.10)
 License: GPL (>= 3)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 LazyData: true
 Sugggests:
     grImport2,
-    rsvg
+    rsvg,
+    usethis
 Roxygen: list(markdown = TRUE)

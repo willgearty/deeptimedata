@@ -6,3 +6,6 @@
 ^data-raw$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+cran-comments.md
+^CRAN-RELEASE$
+^CRAN-SUBMISSION$
