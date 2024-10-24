@@ -6,7 +6,7 @@
 <!-- badges: end -->
 
 ## Overview
-An R package to store data for the [deeptime](https://williamgearty.com/deeptime) package.
+An R package to store data for the [deeptime](https://williamgearty.com/deeptime/) package.
 
 ## Installation
 

@@ -20,7 +20,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: William Gearty \email{willgearty@gmail.com} (\href{https://orcid.org/0000-0003-0076-3262}{ORCID})
+\strong{Maintainer}: William Gearty \email{willgearty@gmail.com} (\href{https://orcid.org/0000-0003-0076-3262}{ORCID}) [copyright holder]
 
 }
 \keyword{internal}
