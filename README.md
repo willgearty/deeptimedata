@@ -8,6 +8,19 @@
 ## Overview
 An R package to store data for the [deeptime](https://williamgearty.com/deeptime) package.
 
+## Installation
+
+Generally, you should not need to install this package separately, it should be installed automatically when installing the `deeptime` package. However, if you do need to install it on it's own, you can use either of these options:
+
+```r
+# get the stable version from CRAN
+install.packages("deeptimedata")
+
+# or get the development version from github
+# install.packages("devtools")
+devtools::install_github("willgearty/deeptimedata")
+```
+
 ## Citation
 
 If you use the `deeptime` and/or `deeptimedata` R packages in your work, please cite as:
