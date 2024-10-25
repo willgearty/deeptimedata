@@ -6,7 +6,7 @@
 <!-- badges: end -->
 
 ## Overview
-An R package to store data for the [deeptime](https://williamgearty.com/deeptime/) package.
+An R package that contains geologic pattern data from the Federal Geographic Data Committee (FGDC) and United States Geological Survey (USGS) as put forward in the [Digital Cartographic Standard for Geologic Map Symbolization](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php). Access functions are provided in the accompanying [deeptime](https://williamgearty.com/deeptime/) package.
 
 ## Installation
 
