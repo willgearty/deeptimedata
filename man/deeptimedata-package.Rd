@@ -4,11 +4,11 @@
 \name{deeptimedata-package}
 \alias{deeptimedata}
 \alias{deeptimedata-package}
-\title{deeptimedata: Geologic Pattern Data from FGDC Used in 'deeptime'}
+\title{deeptimedata: Geologic Pattern Data from FGDC/USGS Used in 'deeptime'}
 \description{
 \if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
 
-Geologic pattern data from \url{https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php}. Access functions are provided in the accompanying package 'deeptime'.
+Geologic pattern data from the Federal Geographic Data Committee (FGDC) and United States Geological Survey (USGS) as put forward in the Digital Cartographic Standard for Geologic Map Symbolization (\url{https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php}). Access functions are provided in the accompanying package 'deeptime'.
 }
 \seealso{
 Useful links:
